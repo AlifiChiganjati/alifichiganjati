@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="150" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58F768&center=true&vCenter=true&width=435&lines=Backend+Engineer;Tech+Enthusiast;Problem+Solver;Critical+Thinking;Continuous+Learner" alt="Typing SVG" />
 </div>
+
 <div align="center">
   <h1> Hi, I'm Alifi Chiganjati 👨💻</h1>
 </div>
@@ -65,7 +66,7 @@
 
 ---
 
-## 🎯 **2023 Goals**
+## 🎯 **2025 Goals**
 
 - [ ] Contribute to 2+ open-source projects
 - [ ] Make API Golang stdlib
@@ -73,5 +74,5 @@
 - [ ] Update My portfolio Web [alifichiganjati.github.io](https://alifichiganjati.github.io)
 
 <div align="center">
-  <h3>🚧 "First solve the problem, then write the code." - John Johnson 🚧</h3>
+  <h4>🚧 "First solve the problem, then write the code." - John Johnson 🚧</h4>
 </div>
