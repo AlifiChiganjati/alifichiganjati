@@ -74,5 +74,5 @@
 - [ ] Update My portfolio Web [alifichiganjati.github.io](https://alifichiganjati.github.io)
 
 <div align="center">
-  <h3>🚧 "First solve the problem, then write the code." - John Johnson 🚧</h2>
+  <h3>🚧 "First solve the problem, then write the code." - John Johnson 🚧</h3>
 </div>
