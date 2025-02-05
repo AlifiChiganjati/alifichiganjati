@@ -46,7 +46,7 @@
 ### **DevOps & Tools**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker,neovim,git,github,linux" height="40"/>
 </div>
 
 ---
