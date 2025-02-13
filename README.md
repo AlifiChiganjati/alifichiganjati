@@ -23,12 +23,8 @@
 - 🌱 **Currently learning:** Self-taught in advanced backend technologies and system design.
 - 👯 **Looking to collaborate on:** Open-source projects, backend development, or anything challenging!
 - 📫 **How to reach me:**  
-   <a href="https://www.linkedin.com/in/alifi-chiganjati/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>  
-  <a href="mailto:alifichiganjati@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Drop%20a%20message-red?style=for-the-badge&logo=gmail" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alifi-chiganjati/)  
+  [![Email](https://img.shields.io/badge/Email-Drop%20a%20message-red?style=for-the-badge&logo=gmail)](mailto:alifichiganjati@gmail.com)
 - ⚡ Fun fact: I ❤️ gaming & tech meetups! 🎮
 
 ---
