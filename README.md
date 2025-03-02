@@ -34,8 +34,7 @@
 ### **Languages & Frameworks**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,express" height="40"/>
-  
+  <img src="https://skillicons.dev/icons?i=go,js,ts,php,nodejs,express,laravel" height="40"/>
 </div>
 
 ### **Databases**
