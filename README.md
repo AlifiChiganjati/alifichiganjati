@@ -19,8 +19,8 @@
 
 ## 🚀 **About Me**
 
-- 🔭 **Currently working on:** [Kamar Pelajar](https://kamarpelajar.id/) – .
-- 🌱 **Currently learning:** Self-taught in advanced backend technologies and system design.
+- 🔭 **Currently working on:** Software Engineer at [NUSA](https://nusa.solutions/) & Backend Developer Intern a [Kamar Pelajar](https://kamarpelajar.id/).
+- 🌱 **Currently learning:** Scalable system architecture, backend performance optimization, and cloud infrastructure.
 - 👯 **Looking to collaborate on:** Open-source projects, backend development, or anything challenging!
 - 📫 **How to reach me:**  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alifi-chiganjati/)  
