@@ -19,7 +19,7 @@
 
 ## 🚀 **About Me**
 
-- 🔭 **Currently working on:** Software Engineer at [NUSA](https://nusa.solutions/) & Backend Developer Intern a [Kamar Pelajar](https://kamarpelajar.id/).
+- 🔭 **Currently working on:** Software Engineer at [NUSA](https://nusa.solutions/) & Part time Backend Developer at [Kamar Pelajar](https://kamarpelajar.id/).
 - 🌱 **Currently learning:** Scalable system architecture, backend performance optimization, and cloud infrastructure.
 - 👯 **Looking to collaborate on:** Open-source projects, backend development, or anything challenging!
 - 📫 **How to reach me:**  
