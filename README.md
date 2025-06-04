@@ -74,5 +74,5 @@
 - [ ] Make New Portfolio Web
 
 <div align="center">
-  <h2>🚧 "First solve the problem, then write the code." - John Johnson 🚧</h2>
+  <h2>🚧 "First, solve the problem. Then, write the code!." - John Johnson 🚧</h2>
 </div>
