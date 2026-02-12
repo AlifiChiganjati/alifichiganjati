@@ -66,12 +66,11 @@
 
 ---
 
-## 🎯 **2025 Goals**
+## 🎯 **2026 Goals**
 
-- [ ] Contribute to 2+ open-source projects
+- [ ] Make New Portfolio Web
 - [ ] Make API Golang stdlib
 - [ ] Learn About Clean Architecture
-- [ ] Make New Portfolio Web
 
 <div align="center">
   <h2>🚧 "First, solve the problem. Then, write the code!." - John Johnson 🚧</h2>
